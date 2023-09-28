@@ -15,3 +15,9 @@ padding:0;
 background-color:orba(0,0,01)
 <meta charset=utf-8"7
 <link rel="stysheet"href="style.css
+text-align: center; /* alinha o título ao centro da página */
+}
+
+p {
+font-size: 20px;
+max-width
